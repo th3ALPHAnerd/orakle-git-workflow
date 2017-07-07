@@ -333,9 +333,9 @@ The RM Team would now merge and deploy your code in the Standard Release Cycle.
 > Remember, the RM Team is not involved. Click Merge and celebrate.
 
 ## <a name="remember"></a>Things to Remember
-1. Always create your branch from the master branch.
-2. Thoroughly review your Pull Requests.
-3. Use common sense and communication to resolve merge conflicts.
-4. If MASTER gets ahead of EIT and/or FAT, Pull Request MASTER into EIT and/or FAT to resolve.
-5. Never merge EIT or FAT into your branch.
+* Always create your branches from the master branch.
+* Thoroughly review your Pull Requests.
+* Use common sense and communication to resolve merge conflicts.
+* If MASTER gets ahead of EIT and/or FAT, Pull Request MASTER into EIT and/or FAT to resolve.
+* Never merge EIT or FAT into your branches.
 
