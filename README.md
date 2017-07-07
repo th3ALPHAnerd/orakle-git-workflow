@@ -1,8 +1,11 @@
+
 # orakle-git-workflow
-> A project to demonstrate the most common workflow for Oracle developers and highlight the common pitfalls.
+> A project to demonstrate the most common workflow for Oracle developers and highlight common pitfalls.
+
+![orakle-git-graph](images/orakle-git-graph.png)
 <hr>
 
-## Table of Contents ![orakle-git-graph](https://raw.github.com/th3ALPHAnerd/orakle-git-workflow/images/orakle-git-graph.png)
+## Table of Contents
 
 * [Purpose](#purpose)
 * [Getting Started](#getting-started)
