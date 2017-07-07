@@ -14,6 +14,14 @@ CREATE OR REPLACE PACKAGE BODY package_1 AS
     DBMS_OUTPUT.put_line (p2);
   END procedure_2;
 
+  PROCEDURE procedure_3 (num IN NUMBER)
+  IS
+    p3 VARCHAR2 (32) := 'Hello procedure_3';
+  BEGIN
+    DBMS_OUTPUT.put_line (num);
+    DBMS_OUTPUT.put_line (p2);
+  END procedure_3;
+
 END package_1;
 /
 begin
