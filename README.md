@@ -1,8 +1,7 @@
-
+![orakle-git-graph](images/orakle-git-graph.png)
 # orakle-git-workflow
 > A project to demonstrate the most common workflow for Oracle developers and highlight common pitfalls.
 
-![orakle-git-graph](images/orakle-git-graph.png)
 <hr>
 
 ## Table of Contents
